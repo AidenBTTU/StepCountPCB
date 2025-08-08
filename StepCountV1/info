@@ -1,1 +1,0 @@
-The first version of this project. Implements I2C communication but is rendered unable to flash because the bootloader that comes preflashed onto the STM32F103C8T6 does not have immediate USB compatibility.
