@@ -1,2 +1,2 @@
 # StepCountPCB
-Custom PCB for step counting device with I2C communication, external crystal oscillator, and power system with battery charging capabilities
+Custom PCB for a step counting device with I2C and USB communication, an external crystal oscillator, and a power system with battery charging capabilities
